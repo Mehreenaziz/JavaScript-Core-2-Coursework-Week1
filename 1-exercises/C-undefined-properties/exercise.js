@@ -14,6 +14,8 @@ let car = {
   yearsOld: 8,
 };
 
+
+
 console.log(car["colour"]);
 
 // Example 2
@@ -24,6 +26,7 @@ function sayHelloToUser(user) {
 let user = {
   name: "Mira"
 };
+
 
 sayHelloToUser(user);
 
